@@ -26,13 +26,13 @@
 
 My name is Lohran Rocha. I currently live in Rio de Janeiro, Brazil. 
 
-On my free time, I learning about JS, React and Node. 
+I learning about backend  with Go lang. 
 
 ## Detailed information
 
 * **Name**: Lohran Rocha
-* **Age**: 25
+* **Age**: 26
 * **Living in**: Rio de Janeiro - RJ
-* **Stack**: JS - (Learning: ReactJS | NodeJS) 
-* **University**: Locked.
+* **Stack**: React | Go  
+* **University**: 1st semester.
 
