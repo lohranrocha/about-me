@@ -27,6 +27,6 @@ I learning about backend  with Go lang.
 * **Name**: Lohran Rocha
 * **Age**: 26
 * **Living in**: Rio de Janeiro - RJ
-* **Stack**: React | Go  
+* **Technology**: C++ | Kotlin 
 * **University**: 1st semester.
 
