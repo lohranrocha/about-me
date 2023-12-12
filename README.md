@@ -18,15 +18,14 @@
 
 ## Public information
 
-My name is Lohran Rocha. I currently live in Rio de Janeiro, Brazil. 
-
-I learning about backend  with Go lang. 
+Hey guys! Welcome to my portfólio.
+I'm passionate about technology and learning.
 
 ## Detailed information
 
 * **Name**: Lohran Rocha
 * **Age**: 26
 * **Living in**: Rio de Janeiro - RJ
-* **Technology**: C++ | Kotlin 
-* **University**: 1st semester.
+* **Technology**: React | Node | C++ | Python   
+* **University**: Software Engineer 
 
