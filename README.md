@@ -16,10 +16,11 @@
 </div>
     </br>
 
-##Lohran Rocha
+<strong>Lohran Rocha</strong>
 
-Formando em Engenharia de Software 
-🚀 Apaixonado por tecnologia e desenvolvimento de software, focado em criar soluções eficientes e escaláveis. Atualmente, estudo Engenharia de Software e me aprofundo em tecnologias voltadas para desenvolvimento web e mobile.
+
+🚀 Apaixonado por tecnologia e desenvolvimento de software, focado em criar soluções eficientes e escaláveis. 
+</br> Atualmente, estudo Engenharia de Software e me aprofundo em tecnologias voltadas para desenvolvimento web e mobile.
 
 🚀 Tecnologias que utilizo
-<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> </div>
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> </div>
