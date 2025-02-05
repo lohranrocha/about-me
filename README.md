@@ -16,16 +16,10 @@
 </div>
     </br>
 
-## Public information
+##Lohran Rocha
 
-Hey guys! Welcome to my portfólio.
-I'm passionate about technology and learning.
+Formando em Engenharia de Software 
+🚀 Apaixonado por tecnologia e desenvolvimento de software, focado em criar soluções eficientes e escaláveis. Atualmente, estudo Engenharia de Software e me aprofundo em tecnologias voltadas para desenvolvimento web e mobile.
 
-## Detailed information
-
-* **Name**: Lohran Rocha
-* **Age**: 26
-* **Living in**: Rio de Janeiro - RJ
-* **Technology**: React | Node | C++ | Python   
-* **University**: Software Engineer 
-
+🚀 Tecnologias que utilizo
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> </div>
